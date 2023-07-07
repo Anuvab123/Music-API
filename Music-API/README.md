@@ -1,3 +1,4 @@
+
 Frameworks and Language used:
 -
 The Music Stream API project is developed using the following technologies:
@@ -33,6 +34,9 @@ The project structure includes a controller service and a repository, providing 
 To ensure data security and user data privacy, normal users cannot create or do CRUD operations on songs, and only Admin users have the necessary permissions to perform these actions. This ensures that the API is both secure and user-friendly.
 
 Overall, this project provides a scalable and secure API for music streaming services that allows users to manage their playlists effectively while ensuring the safety of their data.
+![Screenshot (82)](https://github.com/Anuvab123/Music-API/assets/112776528/4ebae6e4-06ff-4315-845e-036b27034073)
+![Screenshot (83)](https://github.com/Anuvab123/Music-API/assets/112776528/b807f90d-0a74-47ab-a54a-76c1d41044d2)
+
 
 
 
